@@ -12,9 +12,8 @@ Your team: group number 8
 
   - Student 2: Abdelilah Younsi 'Abdelilah2002'
   
-  - Student 3: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
-
-  - Student 4: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 3: Saadi Ilyass 'Saadilyass'
+  - Student 4: Abdelmounim Delyasse 'abdoodelyasse'
 
 ## Getting Started
 
