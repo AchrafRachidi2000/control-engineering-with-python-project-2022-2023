@@ -6,9 +6,9 @@
 
 All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1-o4YxKb9UkuLmMPGsnRVIBShwj0DTkEpT8TB5k3OsYk/edit?usp=sharing)
 
-Your team: group number ❔
+Your team: group number 8
 
-  - Student 1: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 1: Achraf Rachidi 'AchrafRachidi2000'
 
   - Student 2: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
   
