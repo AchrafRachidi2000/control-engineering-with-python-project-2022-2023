@@ -12,7 +12,7 @@ Your team: group number 8
 
   - Student 2: Abdelilah Younsi 'Abdelilah2002'
   
-  - Student 3: Saadi Ilyass 'Saadilyass'
+  - Student 3: Saadi Ilyass 'SaadiIlyass'
   - Student 4: Abdelmounim Delyasse 'abdoodelyasse'
 
 ## Getting Started
